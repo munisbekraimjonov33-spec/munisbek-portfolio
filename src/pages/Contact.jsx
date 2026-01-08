@@ -92,7 +92,7 @@ ${values.message}
                                     <MapPin className="text-primary mt-1" />
                                     <div>
                                         <p className="font-bold">Joylashuv</p>
-                                        <p className="text-slate-400">Toshkent, O'zbekiston</p>
+                                        <p className="text-slate-400">Samarqand, O'zbekiston</p>
                                     </div>
                                 </div>
                             </div>
