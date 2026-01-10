@@ -61,7 +61,7 @@ const Home = () => {
 
                             <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-black tracking-tighter text-slate-900 dark:text-white mb-6 leading-[0.9] lg:leading-[0.95]">
                                 Munisbek <br />
-                                <span className="text-transparent bg-clip-text bg-gradient-to-r from-slate-600 to-slate-900 dark:from-slate-400 dark:to-white">Raimjonov</span>
+                                <span className="text-gradient">Raimjonov</span>
                             </h1>
 
                             <p className="text-lg sm:text-xl text-slate-600 dark:text-slate-400 mb-10 max-w-lg leading-relaxed font-light">
@@ -120,7 +120,7 @@ const Home = () => {
                                     initial={{ y: 20, opacity: 0 }}
                                     animate={{ y: 0, opacity: 1 }}
                                     transition={{ delay: 1, duration: 0.5 }}
-                                    className="absolute bottom-8 left-8 bg-white/90 dark:bg-slate-900/90 backdrop-blur-md p-4 rounded-xl shadow-lg border border-white/20 dark:border-slate-700/50"
+                                    className="absolute bottom-8 left-8 glass-card p-4 rounded-xl"
                                 >
                                     <div className="flex items-center gap-3">
                                         <div className="w-10 h-10 rounded-full bg-green-500/10 flex items-center justify-center text-green-500">
@@ -178,7 +178,7 @@ const Home = () => {
                                 viewport={{ once: true }}
                                 transition={{ delay: idx * 0.1 }}
                                 whileHover={{ y: -10 }}
-                                className="bg-white dark:bg-slate-900 p-8 rounded-3xl shadow-xl shadow-slate-200/50 dark:shadow-slate-900/50 border border-slate-100 dark:border-slate-800"
+                                className="glass-card p-8 rounded-3xl"
                             >
                                 <div className="w-16 h-16 bg-slate-50 dark:bg-slate-800 rounded-2xl flex items-center justify-center mb-6">
                                     {service.icon}
