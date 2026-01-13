@@ -1,57 +1,66 @@
-# 👋 Salom! Bu Munisbek Raimjonovning Portfoliosi
+# 🌐 Munisbek Raimjonov — Frontend Developer Portfolio
 
-Xush kelibsiz! Ushbu repozitoriy mening shaxsiy portfolio saytimning kodi hisoblanadi. Maqsadim shunchaki sayt yasash emas, balki **"WOW" effekt** beradigan, zamonaviy va esda qolarli raqamli tajriba yaratish edi.
+Bu mening shaxsiy **portfolio veb-saytim**. Bu yerda men qilgan loyihalarim, texnologiyalarim va professional tajribamni namoyish qilaman. Sayt zamonaviy dizayn, tezkor ishlash va barcha qurilmalarga moslashuvchanlikni ta’minlaydi.
 
-Bu loyiha men Frontend dasturchi sifatida nimalarga qodir ekanligimni ko'rsatib beradi. Minimalizm, toza kod va murakkab animatsiyalar — barchasi shu yerda mujassam! 🚀
+🔗 **Live Demo:** [https://munisbek-raimjonov-portfolio.vercel.app/](https://munisbek-raimjonov-portfolio.vercel.app/)
 
-## ✨ Nimalarni ko'rasiz? (Xususiyatlar)
+---
 
-Saytni shunchaki "yaxshi" emas, **ajoyib** qilish uchun unga quyidagi fishkalarni qo'shdim:
+## 💡 Sayt haqida
 
-*   **Sichqoncha bilan o'yin (Interactive Particles)**: Asosiy sahifa fonida shunchaki rasm emas, balki sichqonchangiz harakatiga javob beradigan tirik zarrachalar bor.
-*   **Magnit Tugmalar**: Tugmalar oddiy emas! Ularga yaqinlashsangiz, ular xuddi magnit kabi kursorga tortiladi. Bosganda esa juda yoqimli hissiyot beradi.
-*   **"Spotlight" Kursor**: Oddiy o'qcha zerikarli, shunday emasmi? Shuning uchun bu yerda orqasidan yorug'lik taratib yuradigan maxsus kursor ishlatdim.
-*   **3D Kartochkalar**: Loyihalarimni ko'rayotganda kartochkalar ustiga mishkani olib borsangiz, ular 3D formatda qimirlaydi (Tilt effect).
-*   **To'liq O'zbek tilida**: Sayt 100% o'z ona tilimizda.
+Ushbu sayt foydalanuvchiga qulay interfeys bilan quyidagilarni taqdim etadi:
 
-## 🛠 Nimalardan foydalandim? (Texnologiyalar)
+- Shaxsiy portfolioni yaratish va namoyish qilish  
+- Qilgan ishlarimni vizual tarzda ko‘rsatish  
+- Frontend texnologiyalardagi malakamni ta’kidlash  
 
-Bu loyiha eng zamonaviy vositalar yordamida qurilgan:
+Sayt interaktiv, silliq va barcha ekran o‘lchamlariga mos (responsive) tarzda ishlaydi.
 
-*   **React 19 & Vite** — Tezlik va qulaylik uchun.
-*   **Tailwind CSS** — Dizaynni erkin va tez chizish uchun.
-*   **Framer Motion** — Barcha silliq animatsiyalar va o'tishlar uchun.
-*   **Zustand** — Sayt holatini (masalan, Tun/Kun rejimi) boshqarish uchun.
-*   **Formik & Yup** — Forma va validatsiya ishlari uchun.
-*   **Telegram Bot API** — Menga yozgan xabarlaringiz to'g'ridan-to'g'ri Telegramimga kelishi uchun.
+---
 
-## 🚀 Qanday ishga tushirasiz?
+## 🔍 Asosiy imkoniyatlar
 
-Agar ushbu kodni o'z kompyuteringizda ishlatib ko'rmoqchi bo'lsangiz, marhamat:
+- ⚡ Tezkor yuklanish va silliq ishlash  
+- 📱 Mobil va desktop qurilmalarga mos dizayn  
+- 🎨 Zamonaviy UI/UX elementlari va animatsiyalar  
+- 🧩 Loyihalar va ishlar bo‘limi bilan professional ko‘rinish  
+- 🔗 Ijtimoiy tarmoqlarga va aloqalarga havolalar  
 
-1.  **Loyihani ko'chirib oling:**
-    ```bash
-    git clone https://github.com/munisbek/portfolio.git
-    cd portfolio
-    ```
+---
 
-2.  **Kerakli kutubxonalarni o'rnating:**
-    ```bash
-    npm install
-    ```
+## 🖼 Sayt bo‘limlari
 
-3.  **Saytni yoqing:**
-    ```bash
-    npm run dev
-    ```
+- **Home:** Mening qisqacha tanishtiruvim va asosiy ma’lumotlar  
+- **About:** Men haqimda batafsil ma’lumot va malaka  
+- **Projects:** Qilgan ishlarim va loyihalarim  
+- **Contact:** Menga bog‘lanish uchun shakl va ijtimoiy tarmoqlar  
 
-4.  **Tayyor!** Brauzeringizda (odatda `http://localhost:5173`) ochib ko'rishingiz mumkin.
+---
 
-## 🤝 Aloqa
+## 👤 Muallif
 
-Agar loyiha bo'yicha savollaringiz bo'lsa yoki hamkorlik qilmoqchi bo'lsangiz:
-*   Mening Telegramim: [@Munisbek_Raimjonov](https://t.me/Munisbek_Raimjonov)
-*   YouTube kanalim: [@munisbek_raimjonov](https://youtube.com/@munisbek_raimjonov)
+**Munisbek Raimjonov** — Frontend Developer  
 
-E'tiboringiz uchun rahmat! ⭐ bosishni unutmang :)
-# munisbek-portfolio
+- Portfolio: [https://munisbek-raimjonov-portfolio.vercel.app/](https://munisbek-raimjonov-portfolio.vercel.app/)  
+- GitHub: [@munisbek-raimjonov](https://github.com/munisbek-raimjonov)  
+
+---
+
+## 📄 Litsenziya
+
+MIT License © 2026 Munisbek Raimjonov
+
+Bosh sahifa 
+![Asosiy](<public/images/Screenshot 2026-01-13 175419.png>)
+
+Loyihalar 
+![Loyihalar](<public/images/Screenshot 2026-01-13 175754.png>)
+
+Men Haqimda
+![Haqimda](<public/images/Screenshot 2026-01-13 175848.png>)
+
+Bog'lanish
+![Bog'lanish](<public/images/Screenshot 2026-01-13 175904.png>)
+
+Xizmatlar
+![Xizmatlar](<public/images/Screenshot 2026-01-13 175923.png>)
